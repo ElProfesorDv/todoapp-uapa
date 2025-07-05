@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$password = ".Sddi21072013.";  // Reemplazar por la tuya
+$password = "Poner Tu Pass AQUI";
 $database = "TareasDB";
 
 $conn = new mysqli($host, $user, $password, $database);
